@@ -1,7 +1,7 @@
 //your code here
 
 // Band names array
-let bandNames = ['The Beatles', 'Led Zeppelin', 'Radiohead', 'The Rolling Stones', 'Pink Floyd'];
+let bandNames = [];
 
 // Function to remove articles from band names
 function removeArticles(name) {
